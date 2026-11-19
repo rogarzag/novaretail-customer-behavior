@@ -6,7 +6,7 @@
 **GitHub repository:** [novaretail-customer-behavior](https://github.com/rogarzag/novaretail-customer-behavior)  
 **Project focus:** Data Analytics · Exploratory Data Analysis · Customer Behavior · Correlation Analysis  
 **Project context:** Data Analytics portfolio project  
-**Data / case coverage:** 15,000 customer records; 12 variables; 2024 dataset  
+**Data / period covered:** 15,000 customer records; 12 variables; 2024 dataset  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -50,9 +50,9 @@ data/novaretail_comportamiento_clientes_2024.csv
 - Correlation heatmap
 - Pairplot and regression scatterplots
 - **Pearson correlation** for linear numerical relationships
-- **Spearman correlation** as a robustness check for dispersed relationships and potential extreme values
-- **Point-biserial correlation** for numerical–binary relationships
-- **Cramér's V** for categorical associations
+- **Spearman correlation** to check whether the same pattern appears when the data are ranked
+- **Point-biserial correlation** to compare a numerical measure with a yes/no category
+- **Cramér's V** to check links between categories
 
 ## Key Findings
 
