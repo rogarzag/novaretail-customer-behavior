@@ -1,6 +1,17 @@
 # NovaRetail+ Customer Behavior and Revenue Drivers
 
-## Overview
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [novaretail customer behavior](https://rogarzag.github.io/projects/novaretail/)  
+**GitHub repository:** [novaretail-customer-behavior](https://github.com/rogarzag/novaretail-customer-behavior)  
+**Project focus:** Data Analytics · Exploratory Data Analysis · Customer Behavior · Correlation Analysis  
+**Project context:** Data Analytics portfolio project  
+**Data / case coverage:** 15,000 customer records; 12 variables; 2024 dataset  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
+
 
 This project explores which customer behavior factors are most strongly associated with the annual revenue generated for **NovaRetail+**, an e-commerce platform in Latin America.
 
@@ -109,3 +120,7 @@ The dataset used in the analysis is included in the `data/` directory. Dependenc
 ## Tools
 
 Python, pandas, NumPy, Seaborn, Matplotlib, SciPy, Jupyter Notebook.
+
+## Conclusion
+
+Purchase frequency showed the strongest association with annual customer revenue in the dataset, while Premium customers generated higher average revenue per customer despite representing a smaller share of customers. These are associations, not causal effects. Without costs, margins, discounts, and returns, revenue should not be interpreted as profitability; further segment-level analysis would help test whether the patterns hold across customer groups.
