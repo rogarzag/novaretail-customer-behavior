@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [novaretail customer behavior](https://rogarzag.github.io/projects/novaretail/)  
+**Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [novaretail-customer-behavior](https://github.com/rogarzag/novaretail-customer-behavior)  
 **Project focus:** Data Analytics · Exploratory Data Analysis · Customer Behavior · Correlation Analysis  
 **Project context:** Data Analytics portfolio project  
