@@ -6,7 +6,7 @@
 **GitHub repository:** [novaretail-customer-behavior](https://github.com/rogarzag/novaretail-customer-behavior)  
 **Project focus:** Data Analytics · Exploratory Data Analysis · Customer Behavior · Correlation Analysis  
 **Project context:** Data Analytics portfolio project  
-**Data / period covered:** 15,000 customer records; 12 variables; 2024 dataset  
+**Data / project coverage:** 15,000 customer records; 12 variables; 2024 dataset  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
